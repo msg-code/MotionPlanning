@@ -17,6 +17,7 @@ Designed & Implemented by **SHIGUO MEI**, msgyoung@163.com
 - based-search path planning
 - based-sample path planning
 - Trajectory Generation obvp
+- Based-Optimization Trajectory planning
 
 ---
 
