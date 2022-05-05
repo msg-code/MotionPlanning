@@ -18,6 +18,7 @@ Designed & Implemented by **SHIGUO MEI**, msgyoung@163.com
 - based-sample path planning
 - Trajectory Generation obvp
 - Based-Optimization Trajectory planning
+- Linear_mpc with Delays
 
 ---
 
