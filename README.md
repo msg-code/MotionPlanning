@@ -19,7 +19,11 @@ Designed & Implemented by **SHIGUO MEI**, msgyoung@163.com
 - Trajectory Generation obvp
 - Based-Optimization Trajectory planning
 - Linear_mpc with Delays
+- final_homework
+
+#### Finish and scattering flowers
 
 ---
 
 Keep Learning & Keep Coding
+
